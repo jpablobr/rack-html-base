@@ -9,6 +9,7 @@ As a Ruby developer, I find much simpler to just use Ruby webservers for anythin
 ## Install
 
    % git clone http://github.com/jpablobr/rack-html-base.git
+
    % cd rack-html-base && rackup
 
 ### Copyright
